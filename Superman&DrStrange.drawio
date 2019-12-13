@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-13T15:38:12.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="l5OIJIJqide7cM9iSLMz" version="12.4.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-13T15:42:23.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="GuEYGrC17igHYUqQ-kxs" version="12.4.1" type="github" pages="1">
   <diagram id="IdHqrWxbUIfQEn7d7Ye1" name="Page-1">
     <mxGraphModel dx="2258" dy="1848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -291,9 +291,11 @@
             <mxGeometry x="1070" y="80" width="120" height="60" as="geometry"/>
           </mxCell>
         </UserObject>
-        <mxCell id="925g83_7qzpylMa0TW13-7" value="WebUI Manual Wave Allocation(Standart Picks)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="260" width="120" height="60" as="geometry"/>
-        </mxCell>
+        <UserObject label="WebUI Manual Wave Allocation(Standart Picks)" link="https://jira.int.kn/browse/TCL-32" id="925g83_7qzpylMa0TW13-7">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="960" y="260" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
         <UserObject label="&lt;span style=&quot;white-space: normal&quot;&gt;WebUI Manual Wave Allocation(Work Assignment)&lt;/span&gt;" link="https://jira.int.kn/browse/TCL-35" id="925g83_7qzpylMa0TW13-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="1180" y="262.5" width="120" height="60" as="geometry"/>
@@ -331,21 +333,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="925g83_7qzpylMa0TW13-14" value="WebUI Load Creation on existing Order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="460" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="925g83_7qzpylMa0TW13-15" value="WebUI Dispatch Equipment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="760" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="925g83_7qzpylMa0TW13-16" value="WebUI Equipment Creation and Check In on existing Load" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="560" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="925g83_7qzpylMa0TW13-17" value="RF Pallet Pick to Staging" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="360" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="925g83_7qzpylMa0TW13-18" value="RF Loading Directed Work" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="660" width="120" height="60" as="geometry"/>
-        </mxCell>
+        <UserObject label="WebUI Load Creation on existing Order" link="https://jira.int.kn/browse/TCL-41" id="925g83_7qzpylMa0TW13-14">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="960" y="460" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="WebUI Dispatch Equipment" link="https://jira.int.kn/browse/TCL-46" id="925g83_7qzpylMa0TW13-15">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="960" y="760" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="WebUI Equipment Creation and Check In on existing Load" link="https://jira.int.kn/browse/TCL-42" id="925g83_7qzpylMa0TW13-16">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="960" y="560" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="RF Pallet Pick to Staging" link="https://jira.int.kn/browse/TCL-39" id="925g83_7qzpylMa0TW13-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="960" y="360" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="RF Loading Directed Work" link="https://jira.int.kn/browse/TCL-44" id="925g83_7qzpylMa0TW13-18">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="960" y="660" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
         <mxCell id="925g83_7qzpylMa0TW13-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1020" y="420" as="sourcePoint"/>
