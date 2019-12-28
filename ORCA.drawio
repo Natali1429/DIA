@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-28T12:04:30.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="OkEmsHuGukPavGysM8mA" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-28T12:06:47.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="-BjDcGNyARLSRl2gkLEk" version="12.4.7" type="github">
   <diagram id="ZJK3DXsiuA5_ysu7YzQK" name="Page-1">
     <mxGraphModel dx="1408" dy="1848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -24,30 +24,46 @@
             <mxGeometry x="600" y="20" width="120" height="60" as="geometry"/>
           </mxCell>
         </UserObject>
-        <mxCell id="EcFOUBs4DyFzBYYAQCUD-5" value="Tasklist start - Incorrect CIEL user (override)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="100" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="EcFOUBs4DyFzBYYAQCUD-6" value="Tasklist start - Incorrect CIEL user (main)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="180" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="EcFOUBs4DyFzBYYAQCUD-7" value="Tasklist start - Incorrect password (main)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="260" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="EcFOUBs4DyFzBYYAQCUD-8" value="Tasklist start - Incorrect password (override)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="340" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="EcFOUBs4DyFzBYYAQCUD-9" value="Tasklist start - Expired password (override)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="420" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="EcFOUBs4DyFzBYYAQCUD-10" value="Tasklist start - Expired password (main)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="500" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="EcFOUBs4DyFzBYYAQCUD-11" value="Tasklist start - Incorrect environment path" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="580" width="120" height="60" as="geometry"/>
-        </mxCell>
-        <mxCell id="EcFOUBs4DyFzBYYAQCUD-12" value="Tasklist start - Full successful start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="660" width="120" height="60" as="geometry"/>
-        </mxCell>
+        <UserObject label="Tasklist start - Incorrect CIEL user (override)" link="https://jira.int.kn/browse/CLISQA-1776" id="EcFOUBs4DyFzBYYAQCUD-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="600" y="100" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Tasklist start - Incorrect CIEL user (main)" link="https://jira.int.kn/browse/CLISQA-1775" id="EcFOUBs4DyFzBYYAQCUD-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="600" y="180" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Tasklist start - Incorrect password (main)" link="https://jira.int.kn/browse/CLISQA-1777" id="EcFOUBs4DyFzBYYAQCUD-7">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="600" y="260" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Tasklist start - Incorrect password (override)" link="https://jira.int.kn/browse/CLISQA-1778" id="EcFOUBs4DyFzBYYAQCUD-8">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="600" y="340" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Tasklist start - Expired password (override)" link="https://jira.int.kn/browse/CLISQA-1781" id="EcFOUBs4DyFzBYYAQCUD-9">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="600" y="420" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Tasklist start - Expired password (main)" link="https://jira.int.kn/browse/CLISQA-1782" id="EcFOUBs4DyFzBYYAQCUD-10">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="600" y="500" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Tasklist start - Incorrect environment path" link="https://jira.int.kn/browse/CLISQA-1784" id="EcFOUBs4DyFzBYYAQCUD-11">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="600" y="580" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Tasklist start - Full successful start" link="https://jira.int.kn/browse/CLISQA-1788" id="EcFOUBs4DyFzBYYAQCUD-12">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="600" y="660" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
         <UserObject label="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;Login in system&lt;/span&gt;" link="https://jira.int.kn/browse/CLISQA-1774" id="EcFOUBs4DyFzBYYAQCUD-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="410" y="20" width="120" height="60" as="geometry"/>
@@ -138,9 +154,11 @@
             <mxGeometry x="410" y="180" width="120" height="60" as="geometry"/>
           </mxCell>
         </UserObject>
-        <mxCell id="EcFOUBs4DyFzBYYAQCUD-32" value="Tasklist start - Selective successful start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="750" width="120" height="60" as="geometry"/>
-        </mxCell>
+        <UserObject label="Tasklist start - Selective successful start" link="https://jira.int.kn/browse/CLISQA-1789" id="EcFOUBs4DyFzBYYAQCUD-32">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="600" y="750" width="120" height="60" as="geometry"/>
+          </mxCell>
+        </UserObject>
         <mxCell id="EcFOUBs4DyFzBYYAQCUD-33" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="EcFOUBs4DyFzBYYAQCUD-15" target="EcFOUBs4DyFzBYYAQCUD-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="10" as="sourcePoint"/>
