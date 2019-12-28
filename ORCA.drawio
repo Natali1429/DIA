@@ -1,1 +1,103 @@
-<mxfile host="www.draw.io" modified="2019-12-28T11:20:46.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="12.4.7" etag="qA4OzMDL0MIjbxe1zkdt" type="github"><diagram id="ZJK3DXsiuA5_ysu7YzQK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-28T11:38:36.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="lQPm3zTMwS7JUK9pN7-S" version="12.4.7" type="github">
+  <diagram id="ZJK3DXsiuA5_ysu7YzQK" name="Page-1">
+    <mxGraphModel dx="1408" dy="1848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-1" value="Login in system&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-2" value="Create Project - Invalid CIEL User&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-3" value="Create Project - Invalid password" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-4" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font color=&quot;#333333&quot; face=&quot;arial, sans-serif&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 12px&quot;&gt;Login in system&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="20" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-5" value="Tasklist start - Incorrect CIEL user (override)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-6" value="Tasklist start - Incorrect CIEL user (main)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-7" value="Tasklist start - Incorrect password (main)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-8" value="Tasklist start - Incorrect password (override)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="340" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-9" value="Tasklist start - Expired password (override)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="420" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-10" value="Tasklist start - Expired password (main)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="500" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-11" value="Tasklist start - Incorrect environment path" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="580" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-12" value="Tasklist start - Full successful start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="660" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-13" value="&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; white-space: normal ; background-color: rgb(255 , 255 , 255)&quot;&gt;Login in system&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="20" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="100" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-15" value="Reports" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-120" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-16" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -18.0pt&quot;&gt;&amp;nbsp; &amp;nbsp; Tasklist start&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-120" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-17" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -18.0pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;font-stretch: normal ; font-size: 7pt ; line-height: normal ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;Project&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-120" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-18" value="Library" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-120" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-19" value="Create Project - Expired Password" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-20" value="Create Project - Invalid Environment Path" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-21" value="Create Project - Successful Creation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="420" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-22" value="Edit Project" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="500" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-23" value="Delete Project" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="580" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-24" value="Login in system&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-25" value="Project Library - Exclude entry from library" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-26" value="Project Library - Compare two entries" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-27" value="Project Library - Set Last as main" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="260" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-28" value="Project Library - Delete last version" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-29" value="Project Library - Download project blueprint" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-31" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="180" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="EcFOUBs4DyFzBYYAQCUD-32" value="Tasklist start - Selective successful start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="750" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
