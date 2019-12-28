@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-28T11:41:35.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="nvYsJQZFtBuTL8Vvzt7r" version="12.4.7" type="github">
+<mxfile host="www.draw.io" modified="2019-12-28T11:47:36.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="K89pCcCC2w3tHS6t-ysg" version="12.4.7" type="github">
   <diagram id="ZJK3DXsiuA5_ysu7YzQK" name="Page-1">
     <mxGraphModel dx="1408" dy="1848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,18 +46,26 @@
         <mxCell id="EcFOUBs4DyFzBYYAQCUD-14" value="Reports - Compare same project with different version modes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="100" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="EcFOUBs4DyFzBYYAQCUD-15" value="Reports" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="410" y="-120" width="120" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="EcFOUBs4DyFzBYYAQCUD-16" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -18.0pt&quot;&gt;&amp;nbsp; &amp;nbsp; Tasklist start&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="600" y="-120" width="120" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="EcFOUBs4DyFzBYYAQCUD-17" value="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -18.0pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;font-stretch: normal ; font-size: 7pt ; line-height: normal ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;Project&lt;/span&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-120" width="120" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="EcFOUBs4DyFzBYYAQCUD-18" value="Library" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-120" width="120" height="80" as="geometry"/>
-        </mxCell>
+        <UserObject label="Reports" link="https://jira.int.kn/browse/CLISQA-1797" id="EcFOUBs4DyFzBYYAQCUD-15">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+            <mxGeometry x="410" y="-120" width="120" height="80" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -18.0pt&quot;&gt;&amp;nbsp; &amp;nbsp; Tasklist start&lt;/p&gt;" link="https://jira.int.kn/browse/CLISQA-1791" id="EcFOUBs4DyFzBYYAQCUD-16">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+            <mxGeometry x="600" y="-120" width="120" height="80" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;p class=&quot;MsoListParagraph&quot; style=&quot;text-indent: -18.0pt&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;span style=&quot;font-stretch: normal ; font-size: 7pt ; line-height: normal ; font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;Project&lt;/span&gt;&lt;/p&gt;" link="https://jira.int.kn/browse/CLISQA-1752" id="EcFOUBs4DyFzBYYAQCUD-17">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+            <mxGeometry x="20" y="-120" width="120" height="80" as="geometry"/>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Library" link="https://jira.int.kn/browse/CLISQA-1790" id="EcFOUBs4DyFzBYYAQCUD-18">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+            <mxGeometry x="220" y="-120" width="120" height="80" as="geometry"/>
+          </mxCell>
+        </UserObject>
         <mxCell id="EcFOUBs4DyFzBYYAQCUD-19" value="Create Project - Expired Password" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="260" width="120" height="60" as="geometry"/>
         </mxCell>
